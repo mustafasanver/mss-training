@@ -1,0 +1,13 @@
+{
+	"config": {
+		"theme": {
+			"currentTheme": "ms-pttrainingTheme",
+			"themes": [
+				"defaultTheme",
+				"ms-pttrainingTheme"
+			],
+			"baseTheme": "ms-pttrainingTheme"
+		},
+		"version": "6.8.2"
+	}
+}
